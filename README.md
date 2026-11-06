@@ -1,4 +1,4 @@
 # idelm-assets
 Assets
 
-![idelm](https://raw.githubusercontent.com/idelm/idelm-assets/main/idelm-crt-original-colours-600.webp)
+![idelm](https://raw.githubusercontent.com/idelm/idelm-assets/main/idelmOS_forum_600_v8.gif)
